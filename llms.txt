@@ -1,0 +1,52 @@
+# Geotechnik — Kiel
+
+> Geotechnical engineering services in Kiel, Deutschland.
+
+## Services
+- [Anker](https://kiel.geotechnik.sbs/anker/)
+- [Atterberg Grenzen](https://kiel.geotechnik.sbs/atterberg-grenzen/)
+- [Aushub](https://kiel.geotechnik.sbs/aushub/)
+- [Aushub Monitoring](https://kiel.geotechnik.sbs/aushub-monitoring/)
+- [Bodenplatten](https://kiel.geotechnik.sbs/bodenplatten/)
+- [Bodenverbesserung](https://kiel.geotechnik.sbs/bodenverbesserung/)
+- [Boschungsstabilitat](https://kiel.geotechnik.sbs/boschungsstabilitat/)
+- [Cbr Strasse](https://kiel.geotechnik.sbs/cbr-strasse/)
+- [Cpt Versuch](https://kiel.geotechnik.sbs/cpt-versuch/)
+- [Erdbebenisolierung](https://kiel.geotechnik.sbs/erdbebenisolierung/)
+- [Flexibler Belag](https://kiel.geotechnik.sbs/flexibler-belag/)
+- [Fundamente](https://kiel.geotechnik.sbs/fundamente/)
+- [Geophysik](https://kiel.geotechnik.sbs/geophysik/)
+- [Grundungen](https://kiel.geotechnik.sbs/grundungen/)
+- [Hange](https://kiel.geotechnik.sbs/hange/)
+- [In Situ Durchlassigkeit](https://kiel.geotechnik.sbs/in-situ-durchlassigkeit/)
+- [Injektionen](https://kiel.geotechnik.sbs/injektionen/)
+- [Korngrossenanalyse](https://kiel.geotechnik.sbs/korngrossenanalyse/)
+- [Labor](https://kiel.geotechnik.sbs/labor/)
+- [Labor In Situ](https://kiel.geotechnik.sbs/labor-in-situ/)
+- [Masw](https://kiel.geotechnik.sbs/masw/)
+- [Pfahle](https://kiel.geotechnik.sbs/pfahle/)
+- [Plattendruckversuch](https://kiel.geotechnik.sbs/plattendruckversuch/)
+- [Ruttelverdichtung](https://kiel.geotechnik.sbs/ruttelverdichtung/)
+- [Sandkegel Dichte](https://kiel.geotechnik.sbs/sandkegel-dichte/)
+- [Schottersaulen](https://kiel.geotechnik.sbs/schottersaulen/)
+- [Schurfgruben](https://kiel.geotechnik.sbs/schurfgruben/)
+- [Seismik](https://kiel.geotechnik.sbs/seismik/)
+- [Seismische Mikrozonierung](https://kiel.geotechnik.sbs/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://kiel.geotechnik.sbs/seismische-refraktion/)
+- [Spt Bohrung](https://kiel.geotechnik.sbs/spt-bohrung/)
+- [Starrer Belag](https://kiel.geotechnik.sbs/starrer-belag/)
+- [Strassenbau](https://kiel.geotechnik.sbs/strassenbau/)
+- [Stutzmauern](https://kiel.geotechnik.sbs/stutzmauern/)
+- [Tiefe Aushube](https://kiel.geotechnik.sbs/tiefe-aushube/)
+- [Triaxialversuch](https://kiel.geotechnik.sbs/triaxialversuch/)
+- [Untersuchung](https://kiel.geotechnik.sbs/untersuchung/)
+- [Verflussigung](https://kiel.geotechnik.sbs/verflussigung/)
+- [Weichbodentunnel](https://kiel.geotechnik.sbs/weichbodentunnel/)
+- [Widerstand](https://kiel.geotechnik.sbs/widerstand/)
+
+## Contact
+- Website: https://kiel.geotechnik.sbs/
+
+## About
+This site provides geotechnical engineering services in Kiel, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
